@@ -1,0 +1,12 @@
+{
+  "name": "excel-hyperlink-exporter",
+  "version": "1.0.0",
+  "description": "将Excel中的超链接导出并生成txt文件",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
